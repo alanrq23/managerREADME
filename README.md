@@ -73,7 +73,7 @@ I really like retrospectives, we will normally perform retros once a month and a
 
 I would like to share a bit of my interests and hobbies in case you want to chat about them sometime.
 
-I really like baseball, my favorite team is the RedSox, I will always enjoy a good chat about baseball (unless you are a Yankees fan hehe). I also like to watch series and movies and play video games if I have the time, that could also be an interesting topic.
+I really like baseball, my favorite team is the RedSox, I will always enjoy a good chat about baseball (unless you are a Yankees fan hehe). I also like to watch series and movies and play video games if I have the time, that could also be an interesting topic. I also enjoy music, 'Nunca Jamas' and 'Nightwish' are two of my favorite bands.
 
 I always care to know better the people that I work with, if you want to share I will listen as well.
 
