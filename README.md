@@ -42,7 +42,7 @@ I consider myself a succinct person, which means that I will provide direct conc
 
 Please don’t wait for this meeting to provide any feedback and/or suggestions you might have, you should look at this as our scheduled time to talk but under no circumstances wait for it to discuss something.
 
-In addition to that, I like retrospectives and how they help teams grow. We will be performing a monthly team retrospective, in which as a team we will provide feedback, and propose different things that we can do to improve always aiming towards continuous integration. I like these to be dynamic so we will be probably using a platform that allows us to have dynamic activities which we all can enjoy. 
+In addition to that, I like retrospectives and how they help teams grow. We will be performing a monthly team retrospective, on top of the sprint retrospective, in which we all as a team we will provide feedback, and propose different things that we can do to improve always aiming towards continuous integration. I like these to be dynamic so we will be probably using a platform that allows us to have dynamic activities which we all can enjoy. 
 
 ## Feedback
 
