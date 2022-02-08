@@ -67,7 +67,7 @@ I am a team player and always aim to have a team in which every member has each 
 
 I am an engineer as well and technically proficient, it is not rare for me to partake in technical discussions and provide insight, however, I am not better than anyone in the team nor do I intend to, I will always respect the decisions taken by the team, promote research and experimentation if needed and we will all be accountable for what we decide as a team.
 
-I really like retrospectives, we will normally perform retros once a month and after that, we will do something fun as a team, i.e. play a video game (warzone, among us, etc.), hackathons, etc. This kind of event might be seen as a waste of time sometimes but the truth is they help know each other better, create trust and overall build the team up. Please attend to them all the time, we even have some prizes for the winners. 
+I really like retrospectives, we will normally perform retros at the end of each sprint and after that, we will do something fun as a team, i.e. play a video game (warzone, among us, etc.), hackathons, etc. This kind of event might be seen as a waste of time sometimes but the truth is they help know each other better, create trust and overall build the team up. Please attend to them all the time, we even have some prizes for the winners. 
 
 ## About Me
 
