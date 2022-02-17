@@ -79,6 +79,6 @@ I always care to know better the people whom I work with, if you want to share I
 
 ## Disclaimer
 
-Camille Fournier, one of the best thought leaders in engineering leadership does not like Manager READMEs. She states that there will be some glaring blind spots that will inevitably show up in the manager’s behavior vs the document and undermine credibility and trust. Even though I agree with her at some point because we are human beings, not computer programs, I have enjoyed writing this document and put a lot of honest information about my way to do things, but certainly, this cannot englobe all the things that we human beings can do given certain situations.
+Camille Fournier, one of the best thought leaders in engineering leadership does not like Manager READMEs. She states that there will be some glaring blind spots that will inevitably show up in the manager’s behavior vs the document and undermine credibility and trust. Even though I agree with her at some degree because we are human beings, not computer programs, I have enjoyed writing this document and put a lot of honest information about my way to do things, but certainly, this cannot englobe all the things that we human beings can do given certain situations.
 
 You can find Camille's article [here](https://skamille.medium.com/i-hate-manager-readmes-20a0dd9a70d0), in case you want to read more about it.
