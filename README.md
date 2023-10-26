@@ -63,7 +63,7 @@ If I reach out to you through a Slack message or email I don’t expect an immed
 
 ## How I Work
 
-I am a team player and always aim to have a team in which every member has each other’s back, we display ownership in what we do, collaborate with each other, ask and answer questions, have fun, and overall provide a safe positive environment in which we can all shine, this easier said than done so we will all need your help to achieve it.
+I am a team player and always aim to have a team in which every member has each other’s back, we will show ownership in what we do, collaborate with each other, ask and answer questions, have fun, and overall provide a safe positive environment in which we can all shine, this is easier said than done, so we will all need your help to achieve it.
 
 I am an engineer as well and technically proficient, it is not rare for me to partake in technical discussions and provide insight, however, I am not better than anyone in the team nor do I intend to, I will always respect the decisions taken by the team, promote research and experimentation if needed and we will all be accountable for what we decide as a team.
 
